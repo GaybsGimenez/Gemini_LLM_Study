@@ -30,10 +30,6 @@ Utilização do Gemini para criar uma sessão de chat interativa. Mostra como in
 
 Cada estudo é apresentado em um notebook separado dentro deste repositório. Antes de executar qualquer código, siga as instruções de instalação e configuração da chave de API conforme descrito no início de cada notebook.
 
-## Contribuindo
-
-Este repositório é um estudo pessoal, mas sugestões e melhorias são bem-vindas! Se você encontrar erros nos notebooks, ou desejar adicionar mais exemplos ou funcionalidades, sinta-se à vontade para abrir um issue ou um pull request.
-
 ## Documentação Adicional
 
 Para mais detalhes sobre a API Gemini, consulte a [documentação oficial](https://ai.google.dev/gemini-api/docs/get-started/tutorial?hl=pt-br&lang=python).
